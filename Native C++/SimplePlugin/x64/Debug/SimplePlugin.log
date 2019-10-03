@@ -1,0 +1,7 @@
+﻿  main.cpp
+  SimpleClass.cpp
+  Wrapper.cpp
+  Generating Code...
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\main.cpp(5,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+     Creating library C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\x64\Debug\SimplePlugin.lib and object C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\x64\Debug\SimplePlugin.exp
+  SimplePlugin.vcxproj -> C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\x64\Debug\SimplePlugin.dll

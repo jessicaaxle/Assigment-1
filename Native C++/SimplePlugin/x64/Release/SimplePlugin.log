@@ -1,0 +1,40 @@
+﻿  main.cpp
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:  'SimpleClass::read': class 'std::vector<float,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'SimpleClass'
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:         with
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:         [
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:             _Ty=float
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:         ]
+  SimpleClass.cpp
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :  see declaration of 'std::vector<float,std::allocator<_Ty>>'
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :         with
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :         [
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :             _Ty=float
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :         ]
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:  'SimpleClass::read': class 'std::vector<float,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'SimpleClass'
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:         with
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:         [
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:             _Ty=float
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:         ]
+  Wrapper.cpp
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :  see declaration of 'std::vector<float,std::allocator<_Ty>>'
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :         with
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :         [
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :             _Ty=float
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :         ]
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:  'SimpleClass::read': class 'std::vector<float,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'SimpleClass'
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:         with
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:         [
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:             _Ty=float
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17,21): warning C4251:         ]
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :  see declaration of 'std::vector<float,std::allocator<_Ty>>'
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :         with
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :         [
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :             _Ty=float
+C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\SimplePlugin\SimpleClass.h(17): message :         ]
+     Creating library C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\x64\Release\SimplePlugin.lib and object C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\x64\Release\SimplePlugin.exp
+  Generating code
+  12 of 221 functions ( 5.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SimplePlugin.vcxproj -> C:\Users\jessi\Desktop\3rd year\Game Engines\Tutorials\SimplePlugin\x64\Release\SimplePlugin.dll
